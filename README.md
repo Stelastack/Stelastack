@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=60&section=header" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=60&section=header" width="100%" />
 </p>
 
 ---
@@ -64,30 +64,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=50&section=header" width="100%" />
 </p>
 
-## 🛸 Tech Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-FF4B00?style=for-the-badge&logo=javascript&logoColor=00B0FF"/>
-  <img src="https://img.shields.io/badge/-TypeScript-00B0FF?style=for-the-badge&logo=typescript&logoColor=B000FF"/>
-  <img src="https://img.shields.io/badge/-Python-B000FF?style=for-the-badge&logo=python&logoColor=00FFB0"/>
-  <img src="https://img.shields.io/badge/-Go-00FFB0?style=for-the-badge&logo=go&logoColor=FFFF00"/>
-  <img src="https://img.shields.io/badge/-React-FFFF00?style=for-the-badge&logo=react&logoColor=FF4B00"/>
-  <img src="https://img.shields.io/badge/-Next.js-FF4B00?style=for-the-badge&logo=next.js&logoColor=00B0FF"/>
-  <img src="https://img.shields.io/badge/-Node.js-00B0FF?style=for-the-badge&logo=node.js&logoColor=B000FF"/>
-  <img src="https://img.shields.io/badge/-Docker-B000FF?style=for-the-badge&logo=docker&logoColor=00FFB0"/>
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-00FFB0?style=for-the-badge&logo=github-actions&logoColor=FFFF00"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=30&section=footer" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=40&section=header" width="100%" />
-</p>
-
 ## 📊 My GitHub in Numbers
 
 <div align="center">
@@ -109,6 +85,22 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=30&section=footer" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=40&section=header" width="100%" />
+</p>
+
+## 🏆 My GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app?username=Stelastack&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B00,25:00B0FF,50:B000FF,75:00FFB0,100:FFFF00&height=60&section=footer" width="100%" />
 </p>
 
 ---
